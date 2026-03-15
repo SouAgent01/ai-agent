@@ -1,0 +1,3 @@
+This is my first AI agent knowledge document.
+It contains information about mainframe systems.
+COBOL, JCL, CICS, DB2, VSAM are all covered here.
