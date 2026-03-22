@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "topic": "CICS",
+    "content": "CICS is a transaction server that receives requests and routes them to programs. It manages regions, tasks, and resources.",
+    "source": "mainframe_manual"
+  },
+  {
+    "id": 2,
+    "topic": "JCL",
+    "content": "Job Control Language defines batch jobs with steps, datasets, and programs. EXEC PGM= runs a program, DD defines datasets.",
+    "source": "mainframe_manual"
+  },
+  {
+    "id": 3,
+    "topic": "VSAM",
+    "content": "VSAM is a file access method supporting KSDS keyed, ESDS sequential, and RRDS relative organizations.",
+    "source": "mainframe_manual"
+  },
+  {
+    "id": 4,
+    "topic": "DB2",
+    "content": "DB2 is the IBM relational database for z/OS. It uses SQL for queries and BIND for program access packages.",
+    "source": "mainframe_manual"
+  },
+  {
+    "id": 5,
+    "topic": "Ollama",
+    "content": "Ollama is the local LLM server for macOS. It is the CICS equivalent for AI - receives requests and routes to models.",
+    "source": "ai_notes"
+  },
+  {
+    "id": 6,
+    "topic": "ChromaDB",
+    "content": "ChromaDB is a vector database. It stores embeddings and enables semantic search - like VSAM but searches by meaning not exact key.",
+    "source": "ai_notes"
+  }
+]
