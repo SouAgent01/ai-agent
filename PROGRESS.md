@@ -7,3 +7,5 @@
   - Debugger exercises completed (breakpoints, step-over, debug console)
 
 ### Phase 3 - GitHub (Next)
+### Hour 5 - Git BRanching Completed
+
