@@ -5,4 +5,4 @@ print(f"Hello {name}, your Python is working!")
 # Phase 1 complete
 tools = ["Homebrew", "Git", "Python", "VS Code"]
 for tool in tools:
-    print (f"Installed: {tool}")
+    print (f"Installed: {tool}") 
